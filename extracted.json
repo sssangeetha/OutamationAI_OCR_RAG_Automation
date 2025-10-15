@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Applicants",
+    "text": "Applicants: John Q. Smith / Mary A. Smith Application No: samplesmith",
+    "bbox": [
+      77,
+      78,
+      520,
+      87
+    ]
+  },
+  {
+    "label": "Term / Due In",
+    "text": "Term / Due In: an estimate of cash that may be required to close and an estimate of your proposed monthly mortgage",
+    "bbox": [
+      117,
+      128,
+      567,
+      138
+    ]
+  }
+]
