@@ -1,4 +1,4 @@
-📄 The goal was to simulate real-world document automation — converting messy mortgage PDFs into machine-readable information.
+📄 At Outamation , The goal was to simulate real-world document automation — converting messy mortgage PDFs into machine-readable information.
 
 I applied three OCR models on the same dataset:
 
