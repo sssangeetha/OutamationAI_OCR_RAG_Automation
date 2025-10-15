@@ -1,0 +1,3938 @@
+[
+  {
+    "page": 0,
+    "raw_text": "Your actual rate, payment, and cost could be higher. Get an official Loan Estimate before choosing a loan.\n\nFEES WORKSHEET\nFee Details and Summary\n\nApplicants: John Q. Smith / Mary A. Smith Application No: samplesmith\nPrepared By: XYZ Lender Date Prepared: 10/05/2015\nLoan Program: 30 YEAR FIXED -Purchase\n\nTHIS IS NOT A GOOD FAITH ESTIMATE (GFE). This \"Fees Worksheet\" is provided for informational purposes ONLY, to assist\nyou in determining an estimate of cash that may be required to close and an estimate of your proposed monthly mortgage\npayment. Actual charges may be more or less, and your transaction may not involve a fee for every item listed.\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nTotal Loan Amount: $ 380,000 Interest Rate: 4.250 % Term/Due In: 360/360 mths\nFee Paid To Paid By (Fee Split\u2122*) Amount PFC/F/POC\nORIGINATION CHARGES\nUnderwriting Fee XYZ Lender Borrower $550.00 Vv\nWire Transfer Fee XYZ Lender Borrower $ 75.00 Vv\nAdministration Fee XYZ Lender Borrower $445.00 V\nOTHER CHARGES\nAppraisal Fee XYZ Lender Borrower $525.00 V\nCredit Report Fee XYZ Lender Borrower $25.00 V\nTax Service Fee XYZ Lender Borrower $ 80.00 Vv\nFlood Certification Fee XYZ Lender Borrower $20.00 Vv\nClosing/Escrow Fee Settlement Agent Borrower $860.00 _V\nDocument Preparation Fee Settlement Agent Borrower $ 75.00 Vv\nNotary Fee NOTARY Borrower $150.00 _V\nLender's Title Insurance Borrower $650.00 Vv\nTitle - Courier Fee Settlement Agent Borrower $ 50.00 Vv\nElectronic Document Delivery Fee Settlement Agent Borrower $ 50.00 v\nPest Inspection Fee PEST CONTROL Borrower $ 50.00\nHome Inspection HI COMPANY Borrower $450.00\nMortgage Recording Charge Borrower $150.00\n\nBorrower $ 0.00\nDaily Interest Charges XYZ Lender Borrower $ 44.8611 x25 day(s) $ 1,121.53 V\nHazard Insurance Premium Borrower, $39.58x12mth(s) __-$__\u2014_\u2014475.00\nTOTAL ESTIMATED FUNDS NEEDED TO CLOSE: TOTAL ESTIMATED MONTHLY PAYMENT:\nPurchase Price (+) 475,000.00 Loan Amount (-) 380,000.00 Principal & Interest 1,869.37\nAlterations (+) Cash Deposit 5,000.00 __Other Financing (P & |)\nLand (+) Hazard Insurance 39.58\nRefi (incl. debts to be paid off) (+) Real Estate Taxes 400.00\nEst. Prepaid Items/Reserves (+) 1,121.53 Mortgage Insurance.\nEst. Closing Costs (+) 4,520.00 Homeowner Assn, Dues\n\nOther\n\nTotal Estimated Funds needed to close 95,641.53 Total Monthly Payment 2,308.95\n* PFC = Prepaid Finance Charge F = FHA Allowable Closing Cost POC = Paid Outside of Closing\n**B-=Borrower S = Seller Br = Broker L =Lender TP = Third Party C = Correspondent\n\nCalyx Form - feews.frm (09/2015)\n\f",
+    "items": [
+      {
+        "text": "Your",
+        "bbox": [
+          73,
+          56,
+          121,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "actual",
+        "bbox": [
+          129,
+          56,
+          190,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "rate,",
+        "bbox": [
+          198,
+          57,
+          242,
+          76
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "payment,",
+        "bbox": [
+          251,
+          57,
+          344,
+          77
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "and",
+        "bbox": [
+          352,
+          56,
+          389,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "cost",
+        "bbox": [
+          397,
+          57,
+          441,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "could",
+        "bbox": [
+          448,
+          56,
+          505,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "be",
+        "bbox": [
+          513,
+          56,
+          537,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "higher.",
+        "bbox": [
+          545,
+          56,
+          615,
+          77
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Get",
+        "bbox": [
+          624,
+          56,
+          659,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "an",
+        "bbox": [
+          666,
+          60,
+          690,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "official",
+        "bbox": [
+          697,
+          56,
+          766,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Loan",
+        "bbox": [
+          775,
+          56,
+          824,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Estimate",
+        "bbox": [
+          833,
+          56,
+          922,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "before",
+        "bbox": [
+          930,
+          56,
+          995,
+          73
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "choosing",
+        "bbox": [
+          1003,
+          56,
+          1098,
+          77
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "a",
+        "bbox": [
+          1106,
+          60,
+          1117,
+          73
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "loan.",
+        "bbox": [
+          1125,
+          56,
+          1173,
+          73
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "FEES",
+        "bbox": [
+          477,
+          88,
+          547,
+          110
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "WORKSHEET",
+        "bbox": [
+          556,
+          88,
+          736,
+          110
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          462,
+          120,
+          502,
+          139
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Details",
+        "bbox": [
+          511,
+          120,
+          587,
+          139
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "and",
+        "bbox": [
+          595,
+          120,
+          636,
+          139
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Summary",
+        "bbox": [
+          645,
+          120,
+          753,
+          143
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Applicants:",
+        "bbox": [
+          70,
+          149,
+          150,
+          181
+        ],
+        "conf": 85.0
+      },
+      {
+        "text": "John",
+        "bbox": [
+          202,
+          159,
+          239,
+          171
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "Q.",
+        "bbox": [
+          245,
+          159,
+          261,
+          172
+        ],
+        "conf": 90.0
+      },
+      {
+        "text": "Smith",
+        "bbox": [
+          267,
+          159,
+          310,
+          171
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "/",
+        "bbox": [
+          316,
+          159,
+          320,
+          171
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "Mary",
+        "bbox": [
+          326,
+          159,
+          362,
+          175
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "A.",
+        "bbox": [
+          367,
+          159,
+          381,
+          171
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Smith",
+        "bbox": [
+          387,
+          159,
+          430,
+          171
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Application",
+        "bbox": [
+          821,
+          160,
+          895,
+          175
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "No:",
+        "bbox": [
+          902,
+          160,
+          924,
+          171
+        ],
+        "conf": 66.0
+      },
+      {
+        "text": "samplesmith",
+        "bbox": [
+          944,
+          159,
+          1041,
+          175
+        ],
+        "conf": 86.0
+      },
+      {
+        "text": "Prepared",
+        "bbox": [
+          81,
+          181,
+          142,
+          195
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "By:",
+        "bbox": [
+          148,
+          181,
+          169,
+          195
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "XYZ",
+        "bbox": [
+          202,
+          180,
+          232,
+          192
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Lender",
+        "bbox": [
+          239,
+          180,
+          291,
+          192
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Date",
+        "bbox": [
+          822,
+          181,
+          853,
+          192
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Prepared:",
+        "bbox": [
+          859,
+          181,
+          925,
+          196
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "10/05/2015",
+        "bbox": [
+          944,
+          180,
+          1023,
+          192
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "Loan",
+        "bbox": [
+          822,
+          201,
+          854,
+          212
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Program:",
+        "bbox": [
+          861,
+          201,
+          923,
+          215
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "30",
+        "bbox": [
+          944,
+          200,
+          960,
+          212
+        ],
+        "conf": 90.0
+      },
+      {
+        "text": "YEAR",
+        "bbox": [
+          966,
+          200,
+          1009,
+          212
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "FIXED",
+        "bbox": [
+          1015,
+          200,
+          1060,
+          212
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "-Purchase",
+        "bbox": [
+          1066,
+          200,
+          1143,
+          212
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "THIS",
+        "bbox": [
+          79,
+          242,
+          119,
+          255
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "IS",
+        "bbox": [
+          129,
+          242,
+          144,
+          255
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "NOT",
+        "bbox": [
+          153,
+          242,
+          190,
+          255
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "A",
+        "bbox": [
+          198,
+          242,
+          209,
+          255
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "GOOD",
+        "bbox": [
+          218,
+          242,
+          271,
+          255
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "FAITH",
+        "bbox": [
+          281,
+          242,
+          330,
+          255
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "ESTIMATE",
+        "bbox": [
+          340,
+          242,
+          428,
+          255
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "(GFE).",
+        "bbox": [
+          437,
+          242,
+          489,
+          259
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "This",
+        "bbox": [
+          498,
+          242,
+          531,
+          255
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "\"Fees",
+        "bbox": [
+          540,
+          242,
+          585,
+          255
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Worksheet\"",
+        "bbox": [
+          593,
+          242,
+          686,
+          256
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "is",
+        "bbox": [
+          695,
+          242,
+          707,
+          256
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "provided",
+        "bbox": [
+          716,
+          242,
+          783,
+          259
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "for",
+        "bbox": [
+          792,
+          242,
+          813,
+          255
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "informational",
+        "bbox": [
+          822,
+          242,
+          923,
+          255
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "purposes",
+        "bbox": [
+          933,
+          245,
+          1006,
+          259
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "ONLY,",
+        "bbox": [
+          1015,
+          242,
+          1067,
+          258
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "to",
+        "bbox": [
+          1076,
+          243,
+          1090,
+          255
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "assist",
+        "bbox": [
+          1099,
+          243,
+          1144,
+          255
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "you",
+        "bbox": [
+          80,
+          263,
+          107,
+          277
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "in",
+        "bbox": [
+          119,
+          263,
+          130,
+          273
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "determining",
+        "bbox": [
+          141,
+          260,
+          234,
+          277
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "an",
+        "bbox": [
+          245,
+          263,
+          264,
+          273
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "estimate",
+        "bbox": [
+          275,
+          260,
+          342,
+          274
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "of",
+        "bbox": [
+          352,
+          260,
+          367,
+          273
+        ],
+        "conf": 97.0
+      },
+      {
+        "text": "cash",
+        "bbox": [
+          376,
+          260,
+          413,
+          274
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "that",
+        "bbox": [
+          423,
+          260,
+          453,
+          273
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "may",
+        "bbox": [
+          464,
+          263,
+          496,
+          277
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "be",
+        "bbox": [
+          507,
+          260,
+          525,
+          273
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "required",
+        "bbox": [
+          536,
+          260,
+          601,
+          277
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "to",
+        "bbox": [
+          611,
+          261,
+          625,
+          273
+        ],
+        "conf": 97.0
+      },
+      {
+        "text": "close",
+        "bbox": [
+          636,
+          260,
+          677,
+          274
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "and",
+        "bbox": [
+          687,
+          260,
+          716,
+          273
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "an",
+        "bbox": [
+          727,
+          263,
+          745,
+          273
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "estimate",
+        "bbox": [
+          756,
+          261,
+          823,
+          274
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "of",
+        "bbox": [
+          834,
+          260,
+          848,
+          273
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "your",
+        "bbox": [
+          858,
+          263,
+          892,
+          277
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "proposed",
+        "bbox": [
+          902,
+          260,
+          976,
+          277
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "monthly",
+        "bbox": [
+          987,
+          260,
+          1049,
+          277
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "mortgage",
+        "bbox": [
+          1060,
+          261,
+          1135,
+          277
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "payment.",
+        "bbox": [
+          80,
+          280,
+          152,
+          296
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Actual",
+        "bbox": [
+          159,
+          279,
+          208,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "charges",
+        "bbox": [
+          214,
+          279,
+          278,
+          296
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "may",
+        "bbox": [
+          285,
+          282,
+          317,
+          296
+        ],
+        "conf": 97.0
+      },
+      {
+        "text": "be",
+        "bbox": [
+          324,
+          279,
+          342,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "more",
+        "bbox": [
+          349,
+          282,
+          388,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "or",
+        "bbox": [
+          395,
+          282,
+          410,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "less,",
+        "bbox": [
+          416,
+          279,
+          451,
+          295
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "and",
+        "bbox": [
+          458,
+          279,
+          487,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "your",
+        "bbox": [
+          493,
+          282,
+          528,
+          296
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "transaction",
+        "bbox": [
+          533,
+          280,
+          620,
+          293
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "may",
+        "bbox": [
+          628,
+          282,
+          660,
+          296
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "not",
+        "bbox": [
+          667,
+          280,
+          691,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "involve",
+        "bbox": [
+          697,
+          279,
+          752,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "a",
+        "bbox": [
+          758,
+          282,
+          767,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "fee",
+        "bbox": [
+          773,
+          279,
+          797,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "for",
+        "bbox": [
+          803,
+          279,
+          824,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "every",
+        "bbox": [
+          830,
+          282,
+          873,
+          296
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "item",
+        "bbox": [
+          879,
+          279,
+          911,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "listed.",
+        "bbox": [
+          919,
+          279,
+          963,
+          292
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Total",
+        "bbox": [
+          80,
+          326,
+          114,
+          338
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Loan",
+        "bbox": [
+          121,
+          326,
+          154,
+          338
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Amount:",
+        "bbox": [
+          160,
+          326,
+          219,
+          338
+        ],
+        "conf": 70.0
+      },
+      {
+        "text": "$",
+        "bbox": [
+          234,
+          326,
+          242,
+          340
+        ],
+        "conf": 70.0
+      },
+      {
+        "text": "380,000",
+        "bbox": [
+          247,
+          326,
+          304,
+          341
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "Interest",
+        "bbox": [
+          476,
+          326,
+          528,
+          338
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "Rate:",
+        "bbox": [
+          535,
+          326,
+          571,
+          338
+        ],
+        "conf": 84.0
+      },
+      {
+        "text": "4.250",
+        "bbox": [
+          598,
+          326,
+          637,
+          338
+        ],
+        "conf": 41.0
+      },
+      {
+        "text": "%",
+        "bbox": [
+          643,
+          327,
+          656,
+          338
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "Term/Due",
+        "bbox": [
+          828,
+          326,
+          899,
+          338
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "In:",
+        "bbox": [
+          905,
+          326,
+          921,
+          338
+        ],
+        "conf": 67.0
+      },
+      {
+        "text": "360/360",
+        "bbox": [
+          944,
+          326,
+          1010,
+          338
+        ],
+        "conf": 50.0
+      },
+      {
+        "text": "mths",
+        "bbox": [
+          1016,
+          326,
+          1053,
+          338
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          80,
+          350,
+          103,
+          362
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Paid",
+        "bbox": [
+          325,
+          350,
+          353,
+          362
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "To",
+        "bbox": [
+          357,
+          350,
+          374,
+          362
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Paid",
+        "bbox": [
+          584,
+          350,
+          613,
+          362
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "By",
+        "bbox": [
+          618,
+          350,
+          635,
+          364
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "(Fee",
+        "bbox": [
+          639,
+          350,
+          668,
+          364
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "Split\u2122*)",
+        "bbox": [
+          672,
+          350,
+          718,
+          364
+        ],
+        "conf": 59.0
+      },
+      {
+        "text": "Amount",
+        "bbox": [
+          987,
+          350,
+          1039,
+          362
+        ],
+        "conf": 59.0
+      },
+      {
+        "text": "PFC/F/POC",
+        "bbox": [
+          1061,
+          350,
+          1150,
+          362
+        ],
+        "conf": 59.0
+      },
+      {
+        "text": "ORIGINATION",
+        "bbox": [
+          80,
+          371,
+          184,
+          383
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "CHARGES",
+        "bbox": [
+          190,
+          371,
+          269,
+          383
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Underwriting",
+        "bbox": [
+          80,
+          391,
+          168,
+          407
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          175,
+          391,
+          200,
+          403
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "XYZ",
+        "bbox": [
+          325,
+          391,
+          355,
+          403
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Lender",
+        "bbox": [
+          361,
+          391,
+          409,
+          403
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          383,
+          645,
+          413
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "$550.00",
+        "bbox": [
+          958,
+          391,
+          1050,
+          405
+        ],
+        "conf": 55.0
+      },
+      {
+        "text": "Vv",
+        "bbox": [
+          1069,
+          383,
+          1077,
+          413
+        ],
+        "conf": 20.0
+      },
+      {
+        "text": "Wire",
+        "bbox": [
+          80,
+          411,
+          112,
+          423
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Transfer",
+        "bbox": [
+          118,
+          411,
+          177,
+          423
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          183,
+          411,
+          209,
+          423
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "XYZ",
+        "bbox": [
+          325,
+          411,
+          355,
+          423
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Lender",
+        "bbox": [
+          361,
+          411,
+          409,
+          423
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          403,
+          645,
+          433
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "$",
+        "bbox": [
+          958,
+          411,
+          966,
+          425
+        ],
+        "conf": 82.0
+      },
+      {
+        "text": "75.00",
+        "bbox": [
+          1012,
+          411,
+          1050,
+          423
+        ],
+        "conf": 28.0
+      },
+      {
+        "text": "Vv",
+        "bbox": [
+          1072,
+          412,
+          1082,
+          424
+        ],
+        "conf": 28.0
+      },
+      {
+        "text": "Administration",
+        "bbox": [
+          80,
+          432,
+          180,
+          444
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          187,
+          432,
+          213,
+          444
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "XYZ",
+        "bbox": [
+          325,
+          432,
+          355,
+          444
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Lender",
+        "bbox": [
+          361,
+          432,
+          409,
+          444
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          424,
+          645,
+          454
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "$445.00",
+        "bbox": [
+          958,
+          432,
+          1050,
+          446
+        ],
+        "conf": 48.0
+      },
+      {
+        "text": "V",
+        "bbox": [
+          1072,
+          432,
+          1082,
+          445
+        ],
+        "conf": 57.0
+      },
+      {
+        "text": "OTHER",
+        "bbox": [
+          80,
+          452,
+          134,
+          464
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "CHARGES",
+        "bbox": [
+          140,
+          452,
+          218,
+          464
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Appraisal",
+        "bbox": [
+          80,
+          472,
+          145,
+          488
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          152,
+          472,
+          178,
+          484
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "XYZ",
+        "bbox": [
+          325,
+          472,
+          355,
+          484
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Lender",
+        "bbox": [
+          361,
+          472,
+          409,
+          484
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          464,
+          645,
+          494
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "$525.00",
+        "bbox": [
+          958,
+          472,
+          1050,
+          486
+        ],
+        "conf": 44.0
+      },
+      {
+        "text": "V",
+        "bbox": [
+          1072,
+          473,
+          1082,
+          485
+        ],
+        "conf": 41.0
+      },
+      {
+        "text": "Credit",
+        "bbox": [
+          80,
+          492,
+          122,
+          504
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Report",
+        "bbox": [
+          128,
+          492,
+          174,
+          507
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          180,
+          492,
+          206,
+          504
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "XYZ",
+        "bbox": [
+          325,
+          492,
+          355,
+          504
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Lender",
+        "bbox": [
+          361,
+          492,
+          409,
+          504
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          484,
+          645,
+          514
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "$25.00",
+        "bbox": [
+          958,
+          492,
+          1050,
+          506
+        ],
+        "conf": 56.0
+      },
+      {
+        "text": "V",
+        "bbox": [
+          1072,
+          493,
+          1082,
+          505
+        ],
+        "conf": 59.0
+      },
+      {
+        "text": "Tax",
+        "bbox": [
+          80,
+          512,
+          105,
+          524
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "Service",
+        "bbox": [
+          111,
+          512,
+          163,
+          524
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          170,
+          512,
+          195,
+          524
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "XYZ",
+        "bbox": [
+          325,
+          512,
+          355,
+          524
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Lender",
+        "bbox": [
+          361,
+          512,
+          409,
+          524
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          504,
+          645,
+          534
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "$",
+        "bbox": [
+          958,
+          512,
+          966,
+          526
+        ],
+        "conf": 87.0
+      },
+      {
+        "text": "80.00",
+        "bbox": [
+          1012,
+          512,
+          1050,
+          524
+        ],
+        "conf": 61.0
+      },
+      {
+        "text": "Vv",
+        "bbox": [
+          1072,
+          513,
+          1082,
+          525
+        ],
+        "conf": 61.0
+      },
+      {
+        "text": "Flood",
+        "bbox": [
+          81,
+          532,
+          119,
+          544
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Certification",
+        "bbox": [
+          125,
+          532,
+          208,
+          544
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          215,
+          532,
+          240,
+          544
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "XYZ",
+        "bbox": [
+          325,
+          532,
+          355,
+          544
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Lender",
+        "bbox": [
+          361,
+          532,
+          409,
+          544
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          524,
+          645,
+          554
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "$20.00",
+        "bbox": [
+          958,
+          532,
+          1050,
+          546
+        ],
+        "conf": 55.0
+      },
+      {
+        "text": "Vv",
+        "bbox": [
+          1072,
+          533,
+          1082,
+          545
+        ],
+        "conf": 40.0
+      },
+      {
+        "text": "Closing/Escrow",
+        "bbox": [
+          80,
+          573,
+          189,
+          590
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          196,
+          573,
+          222,
+          585
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "Settlement",
+        "bbox": [
+          325,
+          573,
+          401,
+          585
+        ],
+        "conf": 90.0
+      },
+      {
+        "text": "Agent",
+        "bbox": [
+          406,
+          573,
+          447,
+          590
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          565,
+          645,
+          595
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "$860.00",
+        "bbox": [
+          958,
+          573,
+          1050,
+          587
+        ],
+        "conf": 48.0
+      },
+      {
+        "text": "_V",
+        "bbox": [
+          1072,
+          573,
+          1082,
+          586
+        ],
+        "conf": 48.0
+      },
+      {
+        "text": "Document",
+        "bbox": [
+          81,
+          593,
+          152,
+          605
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Preparation",
+        "bbox": [
+          158,
+          593,
+          239,
+          608
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          246,
+          593,
+          272,
+          605
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "Settlement",
+        "bbox": [
+          325,
+          593,
+          401,
+          605
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Agent",
+        "bbox": [
+          406,
+          593,
+          447,
+          610
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          585,
+          645,
+          615
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "$",
+        "bbox": [
+          958,
+          593,
+          966,
+          607
+        ],
+        "conf": 86.0
+      },
+      {
+        "text": "75.00",
+        "bbox": [
+          1012,
+          593,
+          1050,
+          605
+        ],
+        "conf": 43.0
+      },
+      {
+        "text": "Vv",
+        "bbox": [
+          1072,
+          593,
+          1082,
+          606
+        ],
+        "conf": 49.0
+      },
+      {
+        "text": "Notary",
+        "bbox": [
+          80,
+          613,
+          126,
+          630
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          132,
+          613,
+          158,
+          625
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "NOTARY",
+        "bbox": [
+          325,
+          613,
+          391,
+          625
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          605,
+          645,
+          635
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "$150.00",
+        "bbox": [
+          958,
+          613,
+          1050,
+          627
+        ],
+        "conf": 44.0
+      },
+      {
+        "text": "_V",
+        "bbox": [
+          1072,
+          614,
+          1082,
+          626
+        ],
+        "conf": 24.0
+      },
+      {
+        "text": "Lender's",
+        "bbox": [
+          80,
+          633,
+          140,
+          645
+        ],
+        "conf": 81.0
+      },
+      {
+        "text": "Title",
+        "bbox": [
+          145,
+          633,
+          175,
+          645
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Insurance",
+        "bbox": [
+          181,
+          633,
+          250,
+          645
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          625,
+          645,
+          655
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "$650.00",
+        "bbox": [
+          958,
+          633,
+          1050,
+          647
+        ],
+        "conf": 55.0
+      },
+      {
+        "text": "Vv",
+        "bbox": [
+          1072,
+          634,
+          1082,
+          646
+        ],
+        "conf": 32.0
+      },
+      {
+        "text": "Title",
+        "bbox": [
+          80,
+          653,
+          109,
+          665
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "-",
+        "bbox": [
+          115,
+          660,
+          119,
+          661
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "Courier",
+        "bbox": [
+          125,
+          653,
+          176,
+          665
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          182,
+          653,
+          208,
+          665
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Settlement",
+        "bbox": [
+          325,
+          653,
+          401,
+          665
+        ],
+        "conf": 90.0
+      },
+      {
+        "text": "Agent",
+        "bbox": [
+          406,
+          653,
+          447,
+          669
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          645,
+          645,
+          675
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "$",
+        "bbox": [
+          958,
+          653,
+          966,
+          667
+        ],
+        "conf": 81.0
+      },
+      {
+        "text": "50.00",
+        "bbox": [
+          1012,
+          653,
+          1050,
+          665
+        ],
+        "conf": 42.0
+      },
+      {
+        "text": "Vv",
+        "bbox": [
+          1072,
+          654,
+          1082,
+          666
+        ],
+        "conf": 56.0
+      },
+      {
+        "text": "Electronic",
+        "bbox": [
+          81,
+          673,
+          149,
+          685
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Document",
+        "bbox": [
+          156,
+          673,
+          227,
+          685
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Delivery",
+        "bbox": [
+          233,
+          673,
+          290,
+          688
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          296,
+          673,
+          320,
+          685
+        ],
+        "conf": 77.0
+      },
+      {
+        "text": "Settlement",
+        "bbox": [
+          319,
+          673,
+          401,
+          685
+        ],
+        "conf": 77.0
+      },
+      {
+        "text": "Agent",
+        "bbox": [
+          406,
+          673,
+          447,
+          689
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          665,
+          645,
+          695
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "$",
+        "bbox": [
+          958,
+          673,
+          966,
+          687
+        ],
+        "conf": 78.0
+      },
+      {
+        "text": "50.00",
+        "bbox": [
+          1012,
+          673,
+          1050,
+          685
+        ],
+        "conf": 51.0
+      },
+      {
+        "text": "v",
+        "bbox": [
+          1072,
+          674,
+          1082,
+          686
+        ],
+        "conf": 69.0
+      },
+      {
+        "text": "Pest",
+        "bbox": [
+          81,
+          714,
+          111,
+          726
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Inspection",
+        "bbox": [
+          117,
+          714,
+          188,
+          729
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          196,
+          714,
+          221,
+          726
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "PEST",
+        "bbox": [
+          325,
+          714,
+          366,
+          726
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "CONTROL",
+        "bbox": [
+          371,
+          714,
+          449,
+          726
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          705,
+          645,
+          736
+        ],
+        "conf": 84.0
+      },
+      {
+        "text": "$",
+        "bbox": [
+          958,
+          714,
+          966,
+          728
+        ],
+        "conf": 84.0
+      },
+      {
+        "text": "50.00",
+        "bbox": [
+          1012,
+          714,
+          1050,
+          726
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Home",
+        "bbox": [
+          80,
+          734,
+          122,
+          746
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Inspection",
+        "bbox": [
+          128,
+          734,
+          199,
+          750
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "HI",
+        "bbox": [
+          325,
+          734,
+          339,
+          746
+        ],
+        "conf": 82.0
+      },
+      {
+        "text": "COMPANY",
+        "bbox": [
+          345,
+          734,
+          425,
+          746
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          726,
+          645,
+          756
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "$450.00",
+        "bbox": [
+          958,
+          734,
+          1050,
+          748
+        ],
+        "conf": 43.0
+      },
+      {
+        "text": "Mortgage",
+        "bbox": [
+          80,
+          774,
+          146,
+          791
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Recording",
+        "bbox": [
+          153,
+          774,
+          223,
+          791
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Charge",
+        "bbox": [
+          229,
+          774,
+          281,
+          791
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          766,
+          645,
+          796
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "$150.00",
+        "bbox": [
+          958,
+          774,
+          1050,
+          788
+        ],
+        "conf": 44.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          805,
+          645,
+          836
+        ],
+        "conf": 82.0
+      },
+      {
+        "text": "$",
+        "bbox": [
+          958,
+          814,
+          966,
+          828
+        ],
+        "conf": 82.0
+      },
+      {
+        "text": "0.00",
+        "bbox": [
+          1021,
+          814,
+          1050,
+          826
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "Daily",
+        "bbox": [
+          81,
+          834,
+          106,
+          846
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "Interest",
+        "bbox": [
+          121,
+          834,
+          173,
+          846
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Charges",
+        "bbox": [
+          178,
+          834,
+          237,
+          850
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "XYZ",
+        "bbox": [
+          325,
+          834,
+          355,
+          846
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Lender",
+        "bbox": [
+          361,
+          834,
+          409,
+          846
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          825,
+          645,
+          856
+        ],
+        "conf": 83.0
+      },
+      {
+        "text": "$",
+        "bbox": [
+          778,
+          834,
+          786,
+          848
+        ],
+        "conf": 8.0
+      },
+      {
+        "text": "44.8611",
+        "bbox": [
+          791,
+          834,
+          845,
+          846
+        ],
+        "conf": 8.0
+      },
+      {
+        "text": "x25",
+        "bbox": [
+          854,
+          834,
+          883,
+          846
+        ],
+        "conf": 82.0
+      },
+      {
+        "text": "day(s)",
+        "bbox": [
+          889,
+          834,
+          931,
+          850
+        ],
+        "conf": 48.0
+      },
+      {
+        "text": "$",
+        "bbox": [
+          958,
+          834,
+          966,
+          848
+        ],
+        "conf": 48.0
+      },
+      {
+        "text": "1,121.53",
+        "bbox": [
+          990,
+          834,
+          1050,
+          848
+        ],
+        "conf": 51.0
+      },
+      {
+        "text": "V",
+        "bbox": [
+          1072,
+          835,
+          1082,
+          847
+        ],
+        "conf": 69.0
+      },
+      {
+        "text": "Hazard",
+        "bbox": [
+          80,
+          875,
+          130,
+          887
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Insurance",
+        "bbox": [
+          137,
+          875,
+          205,
+          887
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Premium",
+        "bbox": [
+          212,
+          875,
+          274,
+          887
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Borrower,",
+        "bbox": [
+          581,
+          866,
+          645,
+          897
+        ],
+        "conf": 68.0
+      },
+      {
+        "text": "$39.58x12mth(s)",
+        "bbox": [
+          778,
+          875,
+          915,
+          891
+        ],
+        "conf": 52.0
+      },
+      {
+        "text": "__-$__\u2014_\u2014475.00",
+        "bbox": [
+          958,
+          875,
+          1050,
+          889
+        ],
+        "conf": 0.0
+      },
+      {
+        "text": "TOTAL",
+        "bbox": [
+          79,
+          1602,
+          126,
+          1614
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "ESTIMATED",
+        "bbox": [
+          136,
+          1602,
+          216,
+          1614
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "FUNDS",
+        "bbox": [
+          226,
+          1602,
+          273,
+          1614
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "NEEDED",
+        "bbox": [
+          283,
+          1602,
+          341,
+          1613
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "TO",
+        "bbox": [
+          350,
+          1602,
+          369,
+          1614
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "CLOSE:",
+        "bbox": [
+          379,
+          1602,
+          431,
+          1614
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "TOTAL",
+        "bbox": [
+          792,
+          1602,
+          838,
+          1613
+        ],
+        "conf": 86.0
+      },
+      {
+        "text": "ESTIMATED",
+        "bbox": [
+          843,
+          1602,
+          923,
+          1614
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "MONTHLY",
+        "bbox": [
+          927,
+          1602,
+          996,
+          1613
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "PAYMENT:",
+        "bbox": [
+          1001,
+          1602,
+          1072,
+          1613
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Purchase",
+        "bbox": [
+          80,
+          1622,
+          139,
+          1633
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Price",
+        "bbox": [
+          144,
+          1622,
+          175,
+          1633
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "(+)",
+        "bbox": [
+          180,
+          1623,
+          196,
+          1636
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "475,000.00",
+        "bbox": [
+          316,
+          1622,
+          396,
+          1634
+        ],
+        "conf": 74.0
+      },
+      {
+        "text": "Loan",
+        "bbox": [
+          433,
+          1623,
+          463,
+          1633
+        ],
+        "conf": 25.0
+      },
+      {
+        "text": "Amount",
+        "bbox": [
+          468,
+          1622,
+          516,
+          1633
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "(-)",
+        "bbox": [
+          521,
+          1623,
+          533,
+          1636
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "380,000.00",
+        "bbox": [
+          676,
+          1622,
+          756,
+          1634
+        ],
+        "conf": 77.0
+      },
+      {
+        "text": "Principal",
+        "bbox": [
+          793,
+          1622,
+          846,
+          1636
+        ],
+        "conf": 21.0
+      },
+      {
+        "text": "&",
+        "bbox": [
+          851,
+          1623,
+          859,
+          1633
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "Interest",
+        "bbox": [
+          865,
+          1622,
+          910,
+          1633
+        ],
+        "conf": 79.0
+      },
+      {
+        "text": "1,869.37",
+        "bbox": [
+          1047,
+          1622,
+          1109,
+          1634
+        ],
+        "conf": 88.0
+      },
+      {
+        "text": "Alterations",
+        "bbox": [
+          80,
+          1642,
+          146,
+          1653
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "(+)",
+        "bbox": [
+          151,
+          1643,
+          167,
+          1656
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Cash",
+        "bbox": [
+          433,
+          1644,
+          464,
+          1655
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "Deposit",
+        "bbox": [
+          470,
+          1644,
+          517,
+          1657
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "5,000.00",
+        "bbox": [
+          694,
+          1643,
+          755,
+          1655
+        ],
+        "conf": 64.0
+      },
+      {
+        "text": "__Other",
+        "bbox": [
+          792,
+          1642,
+          827,
+          1653
+        ],
+        "conf": 12.0
+      },
+      {
+        "text": "Financing",
+        "bbox": [
+          832,
+          1642,
+          892,
+          1656
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "(P",
+        "bbox": [
+          897,
+          1642,
+          910,
+          1656
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "&",
+        "bbox": [
+          915,
+          1643,
+          923,
+          1653
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "|)",
+        "bbox": [
+          929,
+          1643,
+          935,
+          1656
+        ],
+        "conf": 61.0
+      },
+      {
+        "text": "Land",
+        "bbox": [
+          80,
+          1662,
+          110,
+          1673
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "(+)",
+        "bbox": [
+          116,
+          1663,
+          131,
+          1676
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Hazard",
+        "bbox": [
+          793,
+          1662,
+          837,
+          1673
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Insurance",
+        "bbox": [
+          843,
+          1663,
+          903,
+          1673
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "39.58",
+        "bbox": [
+          1069,
+          1661,
+          1108,
+          1673
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Refi",
+        "bbox": [
+          80,
+          1682,
+          104,
+          1693
+        ],
+        "conf": 87.0
+      },
+      {
+        "text": "(incl.",
+        "bbox": [
+          109,
+          1683,
+          134,
+          1696
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "debts",
+        "bbox": [
+          143,
+          1682,
+          177,
+          1693
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "to",
+        "bbox": [
+          181,
+          1683,
+          192,
+          1693
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "be",
+        "bbox": [
+          197,
+          1683,
+          212,
+          1693
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "paid",
+        "bbox": [
+          217,
+          1683,
+          242,
+          1696
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "off)",
+        "bbox": [
+          247,
+          1683,
+          267,
+          1696
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "(+)",
+        "bbox": [
+          272,
+          1683,
+          288,
+          1696
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "Real",
+        "bbox": [
+          793,
+          1682,
+          820,
+          1693
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Estate",
+        "bbox": [
+          826,
+          1682,
+          865,
+          1693
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Taxes",
+        "bbox": [
+          869,
+          1682,
+          907,
+          1693
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "400.00",
+        "bbox": [
+          1060,
+          1681,
+          1108,
+          1693
+        ],
+        "conf": 85.0
+      },
+      {
+        "text": "Est.",
+        "bbox": [
+          80,
+          1702,
+          103,
+          1713
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Prepaid",
+        "bbox": [
+          109,
+          1702,
+          156,
+          1716
+        ],
+        "conf": 89.0
+      },
+      {
+        "text": "Items/Reserves",
+        "bbox": [
+          162,
+          1702,
+          258,
+          1713
+        ],
+        "conf": 71.0
+      },
+      {
+        "text": "(+)",
+        "bbox": [
+          264,
+          1703,
+          279,
+          1716
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "1,121.53",
+        "bbox": [
+          334,
+          1703,
+          395,
+          1715
+        ],
+        "conf": 84.0
+      },
+      {
+        "text": "Mortgage",
+        "bbox": [
+          793,
+          1702,
+          851,
+          1716
+        ],
+        "conf": 86.0
+      },
+      {
+        "text": "Insurance.",
+        "bbox": [
+          857,
+          1703,
+          918,
+          1713
+        ],
+        "conf": 57.0
+      },
+      {
+        "text": "Est.",
+        "bbox": [
+          80,
+          1723,
+          103,
+          1734
+        ],
+        "conf": 86.0
+      },
+      {
+        "text": "Closing",
+        "bbox": [
+          108,
+          1723,
+          154,
+          1737
+        ],
+        "conf": 86.0
+      },
+      {
+        "text": "Costs",
+        "bbox": [
+          159,
+          1723,
+          195,
+          1734
+        ],
+        "conf": 90.0
+      },
+      {
+        "text": "(+)",
+        "bbox": [
+          200,
+          1724,
+          216,
+          1737
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "4,520.00",
+        "bbox": [
+          324,
+          1713,
+          398,
+          1744
+        ],
+        "conf": 34.0
+      },
+      {
+        "text": "Homeowner",
+        "bbox": [
+          793,
+          1723,
+          869,
+          1734
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Assn,",
+        "bbox": [
+          873,
+          1723,
+          907,
+          1734
+        ],
+        "conf": 88.0
+      },
+      {
+        "text": "Dues",
+        "bbox": [
+          913,
+          1723,
+          945,
+          1734
+        ],
+        "conf": 81.0
+      },
+      {
+        "text": "Other",
+        "bbox": [
+          792,
+          1743,
+          827,
+          1754
+        ],
+        "conf": 68.0
+      },
+      {
+        "text": "Total",
+        "bbox": [
+          79,
+          1864,
+          112,
+          1875
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Estimated",
+        "bbox": [
+          118,
+          1864,
+          184,
+          1875
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "Funds",
+        "bbox": [
+          189,
+          1864,
+          230,
+          1875
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "needed",
+        "bbox": [
+          236,
+          1864,
+          284,
+          1875
+        ],
+        "conf": 92.0
+      },
+      {
+        "text": "to",
+        "bbox": [
+          288,
+          1865,
+          301,
+          1875
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "close",
+        "bbox": [
+          306,
+          1864,
+          341,
+          1875
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "95,641.53",
+        "bbox": [
+          685,
+          1863,
+          756,
+          1875
+        ],
+        "conf": 81.0
+      },
+      {
+        "text": "Total",
+        "bbox": [
+          792,
+          1864,
+          825,
+          1875
+        ],
+        "conf": 59.0
+      },
+      {
+        "text": "Monthly",
+        "bbox": [
+          830,
+          1864,
+          883,
+          1877
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Payment",
+        "bbox": [
+          888,
+          1864,
+          946,
+          1877
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "2,308.95",
+        "bbox": [
+          1047,
+          1863,
+          1108,
+          1875
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "*",
+        "bbox": [
+          80,
+          1895,
+          84,
+          1898
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "PFC",
+        "bbox": [
+          90,
+          1894,
+          116,
+          1905
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "=",
+        "bbox": [
+          123,
+          1900,
+          130,
+          1904
+        ],
+        "conf": 84.0
+      },
+      {
+        "text": "Prepaid",
+        "bbox": [
+          135,
+          1895,
+          181,
+          1908
+        ],
+        "conf": 84.0
+      },
+      {
+        "text": "Finance",
+        "bbox": [
+          187,
+          1895,
+          235,
+          1905
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Charge",
+        "bbox": [
+          240,
+          1895,
+          284,
+          1908
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "F",
+        "bbox": [
+          332,
+          1894,
+          339,
+          1905
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "=",
+        "bbox": [
+          346,
+          1900,
+          353,
+          1904
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "FHA",
+        "bbox": [
+          359,
+          1895,
+          385,
+          1905
+        ],
+        "conf": 94.0
+      },
+      {
+        "text": "Allowable",
+        "bbox": [
+          390,
+          1895,
+          448,
+          1905
+        ],
+        "conf": 95.0
+      },
+      {
+        "text": "Closing",
+        "bbox": [
+          453,
+          1895,
+          498,
+          1908
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Cost",
+        "bbox": [
+          503,
+          1895,
+          531,
+          1905
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "POC",
+        "bbox": [
+          584,
+          1894,
+          613,
+          1905
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "=",
+        "bbox": [
+          620,
+          1900,
+          624,
+          1904
+        ],
+        "conf": 88.0
+      },
+      {
+        "text": "Paid",
+        "bbox": [
+          623,
+          1895,
+          658,
+          1905
+        ],
+        "conf": 88.0
+      },
+      {
+        "text": "Outside",
+        "bbox": [
+          663,
+          1895,
+          710,
+          1905
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "of",
+        "bbox": [
+          715,
+          1895,
+          726,
+          1905
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Closing",
+        "bbox": [
+          731,
+          1895,
+          775,
+          1908
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "**B-=Borrower",
+        "bbox": [
+          80,
+          1909,
+          176,
+          1919
+        ],
+        "conf": 43.0
+      },
+      {
+        "text": "S",
+        "bbox": [
+          184,
+          1905,
+          199,
+          1927
+        ],
+        "conf": 52.0
+      },
+      {
+        "text": "=",
+        "bbox": [
+          195,
+          1909,
+          216,
+          1919
+        ],
+        "conf": 83.0
+      },
+      {
+        "text": "Seller",
+        "bbox": [
+          221,
+          1909,
+          256,
+          1919
+        ],
+        "conf": 83.0
+      },
+      {
+        "text": "Br",
+        "bbox": [
+          303,
+          1909,
+          318,
+          1919
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "=",
+        "bbox": [
+          325,
+          1914,
+          332,
+          1918
+        ],
+        "conf": 77.0
+      },
+      {
+        "text": "Broker",
+        "bbox": [
+          337,
+          1909,
+          377,
+          1919
+        ],
+        "conf": 77.0
+      },
+      {
+        "text": "L",
+        "bbox": [
+          418,
+          1909,
+          426,
+          1919
+        ],
+        "conf": 58.0
+      },
+      {
+        "text": "=Lender",
+        "bbox": [
+          433,
+          1909,
+          487,
+          1919
+        ],
+        "conf": 58.0
+      },
+      {
+        "text": "TP",
+        "bbox": [
+          526,
+          1909,
+          543,
+          1919
+        ],
+        "conf": 79.0
+      },
+      {
+        "text": "=",
+        "bbox": [
+          548,
+          1914,
+          555,
+          1918
+        ],
+        "conf": 83.0
+      },
+      {
+        "text": "Third",
+        "bbox": [
+          559,
+          1909,
+          590,
+          1919
+        ],
+        "conf": 83.0
+      },
+      {
+        "text": "Party",
+        "bbox": [
+          596,
+          1909,
+          627,
+          1922
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "C",
+        "bbox": [
+          677,
+          1909,
+          686,
+          1919
+        ],
+        "conf": 54.0
+      },
+      {
+        "text": "=",
+        "bbox": [
+          692,
+          1914,
+          699,
+          1918
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "Correspondent",
+        "bbox": [
+          704,
+          1909,
+          794,
+          1922
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "Calyx",
+        "bbox": [
+          80,
+          1931,
+          112,
+          1944
+        ],
+        "conf": 96.0
+      },
+      {
+        "text": "Form",
+        "bbox": [
+          118,
+          1931,
+          147,
+          1941
+        ],
+        "conf": 93.0
+      },
+      {
+        "text": "-",
+        "bbox": [
+          152,
+          1937,
+          156,
+          1938
+        ],
+        "conf": 91.0
+      },
+      {
+        "text": "feews.frm",
+        "bbox": [
+          160,
+          1931,
+          217,
+          1941
+        ],
+        "conf": 45.0
+      },
+      {
+        "text": "(09/2015)",
+        "bbox": [
+          223,
+          1931,
+          278,
+          1944
+        ],
+        "conf": 95.0
+      }
+    ]
+  }
+]

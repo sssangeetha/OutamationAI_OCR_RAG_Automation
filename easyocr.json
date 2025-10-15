@@ -1,0 +1,1568 @@
+[
+  {
+    "page": 0,
+    "raw_text": "Your actual\npayment; and cost could be higher. Get an official Loan Estimate before choosing a loan_\nFEES WORKSHEET\nFee Details and Summary\nApplicants:\nJohn Q. Smith\nMary A Smith\nApplication No:\nsamplesmith\nPrepared By:\nXYZ Lender\nDate Prepared:\n10/05/2015\nLoan Program:\n30 YEAR FIXED -Purchase\nTHIS IS NOT\nA GOOD FAITH ESTIMATE (GFE): This \"Fees Worksheet\" is provided for informational purposes ONLY, to assist\nyou in determining\nan\nestimate\nof cash that may be required to close\nand\nan estimate of your\nproposed\nmonthly mortgage\npayment: Actual charges may be more or less, and your transaction may not involve a fee for every item listed.\nTotal Loan Amount:\n$ 380,000\nInterest Rate:\n4.250 %\nTerm/Due In:\n360\n360 mths\nFee\nPaid To\nPaid By (Fee Split  ~\nAmount\nPFC\nPOC\nORIGINATION CHARGES\nUnderwriting Fee\nXYZ Lender\nBorrower\nWire Transfer\nXYZ Lender\nBorrower\nAdministration Fee\nXYZ Lender\nBorrower\n445.00\nOTHER CHARGES\nAppraisal Fee\nXYZ Lender\nBorrower\nCredit Report Fee\nXYZ Lender\nBorrower\nTax Service Fee\nXYZ Lender\nBorrower\nFlood Certification Fee\nXYZ Lender\nBorrower\nClosing/Escrow Fee\nSettlement Agent\nBorrower\nDocument Preparation Fee\nSettlement Agent\nBorrower\nNotary Fee\nNOTARY\nBorrower\nLender's Title Insurance\nBorrower\nTitle\nCourier\nSettlement Agent\nBorrower\nElectronic Document Delivery Fee Settlement Agent\nBorrower\nPest Inspection Fee\nPEST CONTROL\nBorrower\n50.00\nHome Inspection\nHI COMPANY\nBorrower\n450.00\nMortgage Recording Charge\nBorrower\n50.00\nBorrower\nDaily Interest Charges\nXYZ Lender\nBorrower\n5 44.8611 x 25 day(s)\n1.421.53\nHazard Insurance Premium\nBorrower\n8 39.58 X 12 mth(s)\n475.00\nTOTAL\nESTIMATED\nFUNDS_NEEDED\nTO\nCLOSE:\nTOTAL ESTIMATED MONTHLY PAYMENT:\nPurchase Price\n475,000.00\nLoan Amount ()\n380,000.00\nPrincipal &\nInterest\n1,869.37\nAlterations\nCash Deposit\n5000.00\nOlher_Financing_ (P\nLand\nHazard Insurance\n39.58\nRefi (incl: debts t0 be\noff)\nReal Estate Taxes\n400.00\nEst. Prepaid Items Reserves\n1121.53\nMortgage Insurance\nEst__Closing Costs\n4,520.00\nHomeowner Assn_\nDues\nOther\nTotal Estimated Funds_needed t0 close_\n95,641.53\nTota\nMonthly Payment\n2308.95\nPFC\nPrepaid Finance Charge\nF - FHA Allowable Closing Cost\nPOC\nPaid Outside of Closing\nB = Borrower\nS = Seller\nBroker\nLender\nTP\nThird Party\nCorrespondent\nCalyx Form\nfeews frm (09/2015)\nrate;\nFee\nFee\npaid",
+    "items": [
+      {
+        "text": "Your actual",
+        "bbox": [
+          70,
+          52,
+          194,
+          76
+        ],
+        "conf": 0.897011795599624
+      },
+      {
+        "text": "payment; and cost could be higher. Get an official Loan Estimate before choosing a loan_",
+        "bbox": [
+          245,
+          50,
+          1172,
+          80
+        ],
+        "conf": 0.775189901912272
+      },
+      {
+        "text": "FEES WORKSHEET",
+        "bbox": [
+          474,
+          84,
+          740,
+          116
+        ],
+        "conf": 0.999508242517789
+      },
+      {
+        "text": "Fee Details and Summary",
+        "bbox": [
+          458,
+          115,
+          756,
+          146
+        ],
+        "conf": 0.8050331813536643
+      },
+      {
+        "text": "Applicants:",
+        "bbox": [
+          76,
+          154,
+          160,
+          178
+        ],
+        "conf": 0.9999762055786354
+      },
+      {
+        "text": "John Q. Smith",
+        "bbox": [
+          201,
+          155,
+          313,
+          175
+        ],
+        "conf": 0.5791726999912203
+      },
+      {
+        "text": "Mary A Smith",
+        "bbox": [
+          322,
+          154,
+          434,
+          178
+        ],
+        "conf": 0.7613630725413826
+      },
+      {
+        "text": "Application No:",
+        "bbox": [
+          818,
+          154,
+          930,
+          178
+        ],
+        "conf": 0.9636740756773204
+      },
+      {
+        "text": "samplesmith",
+        "bbox": [
+          941,
+          155,
+          1044,
+          179
+        ],
+        "conf": 0.9999574429472979
+      },
+      {
+        "text": "Prepared By:",
+        "bbox": [
+          79,
+          179,
+          173,
+          197
+        ],
+        "conf": 0.9846076559432817
+      },
+      {
+        "text": "XYZ Lender",
+        "bbox": [
+          199,
+          177,
+          295,
+          197
+        ],
+        "conf": 0.9539293728502314
+      },
+      {
+        "text": "Date Prepared:",
+        "bbox": [
+          821,
+          178,
+          929,
+          198
+        ],
+        "conf": 0.5540087240128668
+      },
+      {
+        "text": "10/05/2015",
+        "bbox": [
+          941,
+          176,
+          1027,
+          194
+        ],
+        "conf": 0.9997923131103977
+      },
+      {
+        "text": "Loan Program:",
+        "bbox": [
+          818,
+          197,
+          928,
+          221
+        ],
+        "conf": 0.9986353890049681
+      },
+      {
+        "text": "30 YEAR FIXED -Purchase",
+        "bbox": [
+          941,
+          195,
+          1147,
+          215
+        ],
+        "conf": 0.7990419401384341
+      },
+      {
+        "text": "THIS IS NOT",
+        "bbox": [
+          76,
+          236,
+          192,
+          260
+        ],
+        "conf": 0.9959880484809136
+      },
+      {
+        "text": "A GOOD FAITH ESTIMATE (GFE): This \"Fees Worksheet\" is provided for informational purposes ONLY, to assist",
+        "bbox": [
+          198,
+          236,
+          1150,
+          262
+        ],
+        "conf": 0.7189197633625792
+      },
+      {
+        "text": "you in determining",
+        "bbox": [
+          76,
+          254,
+          238,
+          280
+        ],
+        "conf": 0.9711946019524461
+      },
+      {
+        "text": "an",
+        "bbox": [
+          243,
+          259,
+          267,
+          277
+        ],
+        "conf": 0.9998834793119388
+      },
+      {
+        "text": "estimate",
+        "bbox": [
+          273,
+          261,
+          345,
+          277
+        ],
+        "conf": 0.9933382117233812
+      },
+      {
+        "text": "of cash that may be required to close",
+        "bbox": [
+          350,
+          256,
+          680,
+          280
+        ],
+        "conf": 0.7309384580802158
+      },
+      {
+        "text": "and",
+        "bbox": [
+          685,
+          259,
+          719,
+          277
+        ],
+        "conf": 0.9999843766243525
+      },
+      {
+        "text": "an estimate of your",
+        "bbox": [
+          724,
+          256,
+          896,
+          280
+        ],
+        "conf": 0.8525901162498917
+      },
+      {
+        "text": "proposed",
+        "bbox": [
+          901,
+          261,
+          979,
+          277
+        ],
+        "conf": 0.981361009078548
+      },
+      {
+        "text": "monthly mortgage",
+        "bbox": [
+          981,
+          254,
+          1138,
+          280
+        ],
+        "conf": 0.7052304725306917
+      },
+      {
+        "text": "payment: Actual charges may be more or less, and your transaction may not involve a fee for every item listed.",
+        "bbox": [
+          76,
+          274,
+          966,
+          300
+        ],
+        "conf": 0.6546056820184321
+      },
+      {
+        "text": "Total Loan Amount:",
+        "bbox": [
+          79,
+          325,
+          223,
+          341
+        ],
+        "conf": 0.9024637651023022
+      },
+      {
+        "text": "$ 380,000",
+        "bbox": [
+          233,
+          323,
+          307,
+          341
+        ],
+        "conf": 0.9747750266200041
+      },
+      {
+        "text": "Interest Rate:",
+        "bbox": [
+          475,
+          325,
+          575,
+          341
+        ],
+        "conf": 0.827310894045446
+      },
+      {
+        "text": "4.250 %",
+        "bbox": [
+          597,
+          323,
+          659,
+          341
+        ],
+        "conf": 0.8452236618311263
+      },
+      {
+        "text": "Term/Due In:",
+        "bbox": [
+          827,
+          325,
+          925,
+          341
+        ],
+        "conf": 0.6085616872735674
+      },
+      {
+        "text": "360",
+        "bbox": [
+          941,
+          323,
+          973,
+          341
+        ],
+        "conf": 0.9999895385289886
+      },
+      {
+        "text": "360 mths",
+        "bbox": [
+          981,
+          323,
+          1055,
+          341
+        ],
+        "conf": 0.6594857635641946
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          79,
+          349,
+          107,
+          365
+        ],
+        "conf": 0.9999975222818565
+      },
+      {
+        "text": "Paid To",
+        "bbox": [
+          323,
+          349,
+          377,
+          365
+        ],
+        "conf": 0.9605278626502398
+      },
+      {
+        "text": "Paid By (Fee Split  ~",
+        "bbox": [
+          583,
+          347,
+          711,
+          365
+        ],
+        "conf": 0.43083388667950234
+      },
+      {
+        "text": "Amount",
+        "bbox": [
+          987,
+          349,
+          1043,
+          365
+        ],
+        "conf": 0.9999853998794462
+      },
+      {
+        "text": "PFC",
+        "bbox": [
+          1059,
+          349,
+          1091,
+          365
+        ],
+        "conf": 0.9998538160368458
+      },
+      {
+        "text": "POC",
+        "bbox": [
+          1119,
+          349,
+          1153,
+          363
+        ],
+        "conf": 0.9964191802719783
+      },
+      {
+        "text": "ORIGINATION CHARGES",
+        "bbox": [
+          77,
+          367,
+          271,
+          387
+        ],
+        "conf": 0.7955755356431139
+      },
+      {
+        "text": "Underwriting Fee",
+        "bbox": [
+          78,
+          388,
+          203,
+          409
+        ],
+        "conf": 0.9680602001637074
+      },
+      {
+        "text": "XYZ Lender",
+        "bbox": [
+          323,
+          387,
+          413,
+          407
+        ],
+        "conf": 0.9992480670123535
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          391,
+          649,
+          407
+        ],
+        "conf": 0.9999434804145445
+      },
+      {
+        "text": "Wire Transfer",
+        "bbox": [
+          77,
+          407,
+          181,
+          427
+        ],
+        "conf": 0.8984560425544922
+      },
+      {
+        "text": "XYZ Lender",
+        "bbox": [
+          323,
+          407,
+          413,
+          427
+        ],
+        "conf": 0.9993362402258349
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          411,
+          649,
+          427
+        ],
+        "conf": 0.9999524578867618
+      },
+      {
+        "text": "Administration Fee",
+        "bbox": [
+          78,
+          431,
+          215,
+          449
+        ],
+        "conf": 0.9411227789060411
+      },
+      {
+        "text": "XYZ Lender",
+        "bbox": [
+          323,
+          429,
+          413,
+          447
+        ],
+        "conf": 0.9973211091521921
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          431,
+          647,
+          447
+        ],
+        "conf": 0.9998890247971929
+      },
+      {
+        "text": "445.00",
+        "bbox": [
+          1003,
+          431,
+          1053,
+          447
+        ],
+        "conf": 0.6056443956944798
+      },
+      {
+        "text": "OTHER CHARGES",
+        "bbox": [
+          75,
+          444,
+          222,
+          471
+        ],
+        "conf": 0.8402745788888698
+      },
+      {
+        "text": "Appraisal Fee",
+        "bbox": [
+          79,
+          469,
+          182,
+          493
+        ],
+        "conf": 0.99995966450277
+      },
+      {
+        "text": "XYZ Lender",
+        "bbox": [
+          323,
+          469,
+          413,
+          490
+        ],
+        "conf": 0.9758332430156631
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          471,
+          647,
+          487
+        ],
+        "conf": 0.9998890247971929
+      },
+      {
+        "text": "Credit Report Fee",
+        "bbox": [
+          79,
+          490,
+          209,
+          510
+        ],
+        "conf": 0.9993317511354868
+      },
+      {
+        "text": "XYZ Lender",
+        "bbox": [
+          323,
+          489,
+          413,
+          509
+        ],
+        "conf": 0.9998694136379844
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          491,
+          647,
+          507
+        ],
+        "conf": 0.9998890247971929
+      },
+      {
+        "text": "Tax Service Fee",
+        "bbox": [
+          79,
+          511,
+          199,
+          527
+        ],
+        "conf": 0.8015439567127612
+      },
+      {
+        "text": "XYZ Lender",
+        "bbox": [
+          323,
+          509,
+          413,
+          527
+        ],
+        "conf": 0.9973211091521921
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          511,
+          647,
+          527
+        ],
+        "conf": 0.9998890247971929
+      },
+      {
+        "text": "Flood Certification Fee",
+        "bbox": [
+          79,
+          531,
+          243,
+          549
+        ],
+        "conf": 0.9767046736763806
+      },
+      {
+        "text": "XYZ Lender",
+        "bbox": [
+          323,
+          529,
+          413,
+          550
+        ],
+        "conf": 0.9902686873528659
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          531,
+          647,
+          547
+        ],
+        "conf": 0.9998890247971929
+      },
+      {
+        "text": "Closing/Escrow Fee",
+        "bbox": [
+          78,
+          570,
+          225,
+          591
+        ],
+        "conf": 0.603573435705315
+      },
+      {
+        "text": "Settlement Agent",
+        "bbox": [
+          323,
+          571,
+          451,
+          589
+        ],
+        "conf": 0.8020308525462024
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          573,
+          649,
+          589
+        ],
+        "conf": 0.9999650178622873
+      },
+      {
+        "text": "Document Preparation Fee",
+        "bbox": [
+          79,
+          591,
+          275,
+          611
+        ],
+        "conf": 0.8448668355005339
+      },
+      {
+        "text": "Settlement Agent",
+        "bbox": [
+          322,
+          590,
+          451,
+          611
+        ],
+        "conf": 0.8732512372258752
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          593,
+          647,
+          609
+        ],
+        "conf": 0.9999544388268394
+      },
+      {
+        "text": "Notary Fee",
+        "bbox": [
+          80,
+          610,
+          161,
+          631
+        ],
+        "conf": 0.8653163353846106
+      },
+      {
+        "text": "NOTARY",
+        "bbox": [
+          323,
+          609,
+          393,
+          629
+        ],
+        "conf": 0.816083493455526
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          611,
+          647,
+          629
+        ],
+        "conf": 0.9992557173718526
+      },
+      {
+        "text": "Lender's Title Insurance",
+        "bbox": [
+          79,
+          633,
+          253,
+          649
+        ],
+        "conf": 0.8118527168323484
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          633,
+          649,
+          649
+        ],
+        "conf": 0.999946683647899
+      },
+      {
+        "text": "Title",
+        "bbox": [
+          79,
+          649,
+          113,
+          669
+        ],
+        "conf": 0.8764999870433985
+      },
+      {
+        "text": "Courier",
+        "bbox": [
+          125,
+          653,
+          179,
+          669
+        ],
+        "conf": 0.9996675649162994
+      },
+      {
+        "text": "Settlement Agent",
+        "bbox": [
+          323,
+          651,
+          451,
+          669
+        ],
+        "conf": 0.9532053637079305
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          651,
+          647,
+          669
+        ],
+        "conf": 0.9999519942622536
+      },
+      {
+        "text": "Electronic Document Delivery Fee Settlement Agent",
+        "bbox": [
+          78,
+          668,
+          452,
+          693
+        ],
+        "conf": 0.8412826325319197
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          673,
+          649,
+          689
+        ],
+        "conf": 0.9999524578867618
+      },
+      {
+        "text": "Pest Inspection Fee",
+        "bbox": [
+          79,
+          713,
+          225,
+          731
+        ],
+        "conf": 0.9561066744649902
+      },
+      {
+        "text": "PEST CONTROL",
+        "bbox": [
+          323,
+          711,
+          449,
+          731
+        ],
+        "conf": 0.9563366486197024
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          713,
+          649,
+          729
+        ],
+        "conf": 0.9998890247971929
+      },
+      {
+        "text": "50.00",
+        "bbox": [
+          1009,
+          711,
+          1053,
+          729
+        ],
+        "conf": 0.999258823939934
+      },
+      {
+        "text": "Home Inspection",
+        "bbox": [
+          79,
+          731,
+          203,
+          749
+        ],
+        "conf": 0.72114119616442
+      },
+      {
+        "text": "HI COMPANY",
+        "bbox": [
+          321,
+          730,
+          426,
+          749
+        ],
+        "conf": 0.9381911996052494
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          733,
+          647,
+          749
+        ],
+        "conf": 0.9998890247971929
+      },
+      {
+        "text": "450.00",
+        "bbox": [
+          1003,
+          733,
+          1053,
+          749
+        ],
+        "conf": 0.9832467961922732
+      },
+      {
+        "text": "Mortgage Recording Charge",
+        "bbox": [
+          76,
+          770,
+          284,
+          794
+        ],
+        "conf": 0.6877123918139995
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          773,
+          647,
+          789
+        ],
+        "conf": 0.9998890247971929
+      },
+      {
+        "text": "50.00",
+        "bbox": [
+          1011,
+          773,
+          1053,
+          789
+        ],
+        "conf": 0.9995670420619133
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          813,
+          647,
+          829
+        ],
+        "conf": 0.9998890247971929
+      },
+      {
+        "text": "Daily Interest Charges",
+        "bbox": [
+          76,
+          830,
+          242,
+          855
+        ],
+        "conf": 0.6861672620615278
+      },
+      {
+        "text": "XYZ Lender",
+        "bbox": [
+          323,
+          831,
+          413,
+          851
+        ],
+        "conf": 0.9999327090263957
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          833,
+          647,
+          849
+        ],
+        "conf": 0.9998890247971929
+      },
+      {
+        "text": "5 44.8611 x 25 day(s)",
+        "bbox": [
+          776,
+          830,
+          936,
+          854
+        ],
+        "conf": 0.5596856810430995
+      },
+      {
+        "text": "1.421.53",
+        "bbox": [
+          987,
+          831,
+          1053,
+          851
+        ],
+        "conf": 0.46474970157606643
+      },
+      {
+        "text": "Hazard Insurance Premium",
+        "bbox": [
+          79,
+          875,
+          277,
+          891
+        ],
+        "conf": 0.9590695901754309
+      },
+      {
+        "text": "Borrower",
+        "bbox": [
+          581,
+          875,
+          649,
+          891
+        ],
+        "conf": 0.99994057221216
+      },
+      {
+        "text": "8 39.58 X 12 mth(s)",
+        "bbox": [
+          776,
+          870,
+          918,
+          894
+        ],
+        "conf": 0.5878090394973888
+      },
+      {
+        "text": "475.00",
+        "bbox": [
+          999,
+          871,
+          1053,
+          891
+        ],
+        "conf": 0.9999243221890393
+      },
+      {
+        "text": "TOTAL",
+        "bbox": [
+          77,
+          1599,
+          127,
+          1617
+        ],
+        "conf": 0.9951239574049058
+      },
+      {
+        "text": "ESTIMATED",
+        "bbox": [
+          135,
+          1601,
+          219,
+          1617
+        ],
+        "conf": 0.9999535078366907
+      },
+      {
+        "text": "FUNDS_NEEDED",
+        "bbox": [
+          225,
+          1599,
+          343,
+          1617
+        ],
+        "conf": 0.8786429267326168
+      },
+      {
+        "text": "TO",
+        "bbox": [
+          349,
+          1601,
+          373,
+          1617
+        ],
+        "conf": 0.6255112483541562
+      },
+      {
+        "text": "CLOSE:",
+        "bbox": [
+          379,
+          1601,
+          435,
+          1617
+        ],
+        "conf": 0.9993698151966867
+      },
+      {
+        "text": "TOTAL ESTIMATED MONTHLY PAYMENT:",
+        "bbox": [
+          791,
+          1601,
+          1075,
+          1617
+        ],
+        "conf": 0.9496197680706828
+      },
+      {
+        "text": "Purchase Price",
+        "bbox": [
+          79,
+          1621,
+          179,
+          1637
+        ],
+        "conf": 0.9998824458312885
+      },
+      {
+        "text": "475,000.00",
+        "bbox": [
+          313,
+          1619,
+          399,
+          1637
+        ],
+        "conf": 0.9172382163346745
+      },
+      {
+        "text": "Loan Amount ()",
+        "bbox": [
+          431,
+          1619,
+          537,
+          1639
+        ],
+        "conf": 0.9299345510738278
+      },
+      {
+        "text": "380,000.00",
+        "bbox": [
+          673,
+          1619,
+          759,
+          1637
+        ],
+        "conf": 0.8702440096067143
+      },
+      {
+        "text": "Principal &",
+        "bbox": [
+          791,
+          1621,
+          859,
+          1637
+        ],
+        "conf": 0.9991916460192832
+      },
+      {
+        "text": "Interest",
+        "bbox": [
+          863,
+          1623,
+          915,
+          1637
+        ],
+        "conf": 0.9997004016099589
+      },
+      {
+        "text": "1,869.37",
+        "bbox": [
+          1047,
+          1619,
+          1111,
+          1639
+        ],
+        "conf": 0.9708384324999445
+      },
+      {
+        "text": "Alterations",
+        "bbox": [
+          79,
+          1641,
+          149,
+          1657
+        ],
+        "conf": 0.9900585345299769
+      },
+      {
+        "text": "Cash Deposit",
+        "bbox": [
+          431,
+          1643,
+          521,
+          1659
+        ],
+        "conf": 0.9414004562811513
+      },
+      {
+        "text": "5000.00",
+        "bbox": [
+          693,
+          1639,
+          759,
+          1659
+        ],
+        "conf": 0.8782947450453499
+      },
+      {
+        "text": "Olher_Financing_ (P",
+        "bbox": [
+          791,
+          1640,
+          913,
+          1659
+        ],
+        "conf": 0.49352028827978456
+      },
+      {
+        "text": "Land",
+        "bbox": [
+          79,
+          1663,
+          113,
+          1677
+        ],
+        "conf": 0.9999263882637024
+      },
+      {
+        "text": "Hazard Insurance",
+        "bbox": [
+          791,
+          1661,
+          907,
+          1677
+        ],
+        "conf": 0.9998210435420051
+      },
+      {
+        "text": "39.58",
+        "bbox": [
+          1065,
+          1657,
+          1111,
+          1677
+        ],
+        "conf": 0.9999580966525837
+      },
+      {
+        "text": "Refi (incl: debts t0 be",
+        "bbox": [
+          79,
+          1681,
+          215,
+          1697
+        ],
+        "conf": 0.5243611382324709
+      },
+      {
+        "text": "off)",
+        "bbox": [
+          245,
+          1681,
+          269,
+          1697
+        ],
+        "conf": 0.8041362762451172
+      },
+      {
+        "text": "Real Estate Taxes",
+        "bbox": [
+          793,
+          1681,
+          911,
+          1697
+        ],
+        "conf": 0.5488063702260355
+      },
+      {
+        "text": "400.00",
+        "bbox": [
+          1059,
+          1679,
+          1111,
+          1697
+        ],
+        "conf": 0.9997620120604501
+      },
+      {
+        "text": "Est. Prepaid Items Reserves",
+        "bbox": [
+          79,
+          1701,
+          261,
+          1717
+        ],
+        "conf": 0.7888955438504718
+      },
+      {
+        "text": "1121.53",
+        "bbox": [
+          331,
+          1701,
+          399,
+          1719
+        ],
+        "conf": 0.9744584254687176
+      },
+      {
+        "text": "Mortgage Insurance",
+        "bbox": [
+          790,
+          1700,
+          921,
+          1720
+        ],
+        "conf": 0.9253157378230985
+      },
+      {
+        "text": "Est__Closing Costs",
+        "bbox": [
+          79,
+          1723,
+          197,
+          1739
+        ],
+        "conf": 0.7836291285511183
+      },
+      {
+        "text": "4,520.00",
+        "bbox": [
+          331,
+          1721,
+          399,
+          1741
+        ],
+        "conf": 0.9813097323526284
+      },
+      {
+        "text": "Homeowner Assn_",
+        "bbox": [
+          791,
+          1723,
+          907,
+          1737
+        ],
+        "conf": 0.9308375448129708
+      },
+      {
+        "text": "Dues",
+        "bbox": [
+          913,
+          1723,
+          947,
+          1737
+        ],
+        "conf": 0.9999709129333496
+      },
+      {
+        "text": "Other",
+        "bbox": [
+          793,
+          1743,
+          831,
+          1757
+        ],
+        "conf": 0.9308450236256497
+      },
+      {
+        "text": "Total Estimated Funds_needed t0 close_",
+        "bbox": [
+          79,
+          1863,
+          345,
+          1879
+        ],
+        "conf": 0.47790108365496964
+      },
+      {
+        "text": "95,641.53",
+        "bbox": [
+          683,
+          1861,
+          759,
+          1879
+        ],
+        "conf": 0.809297233039854
+      },
+      {
+        "text": "Tota",
+        "bbox": [
+          793,
+          1863,
+          823,
+          1879
+        ],
+        "conf": 0.9123758673667908
+      },
+      {
+        "text": "Monthly Payment",
+        "bbox": [
+          829,
+          1863,
+          949,
+          1879
+        ],
+        "conf": 0.8284671548509364
+      },
+      {
+        "text": "2308.95",
+        "bbox": [
+          1043,
+          1859,
+          1111,
+          1879
+        ],
+        "conf": 0.617842914807655
+      },
+      {
+        "text": "PFC",
+        "bbox": [
+          87,
+          1893,
+          119,
+          1909
+        ],
+        "conf": 0.9989595413208008
+      },
+      {
+        "text": "Prepaid Finance Charge",
+        "bbox": [
+          133,
+          1891,
+          287,
+          1912
+        ],
+        "conf": 0.9684978436557969
+      },
+      {
+        "text": "F - FHA Allowable Closing Cost",
+        "bbox": [
+          331,
+          1891,
+          535,
+          1911
+        ],
+        "conf": 0.694373621581228
+      },
+      {
+        "text": "POC",
+        "bbox": [
+          583,
+          1893,
+          617,
+          1909
+        ],
+        "conf": 0.9920224434030342
+      },
+      {
+        "text": "Paid Outside of Closing",
+        "bbox": [
+          631,
+          1891,
+          779,
+          1911
+        ],
+        "conf": 0.9568804573027475
+      },
+      {
+        "text": "B = Borrower",
+        "bbox": [
+          93,
+          1907,
+          179,
+          1923
+        ],
+        "conf": 0.995584279609281
+      },
+      {
+        "text": "S = Seller",
+        "bbox": [
+          193,
+          1907,
+          259,
+          1923
+        ],
+        "conf": 0.920752156754901
+      },
+      {
+        "text": "Broker",
+        "bbox": [
+          335,
+          1907,
+          381,
+          1923
+        ],
+        "conf": 0.9999975179828857
+      },
+      {
+        "text": "Lender",
+        "bbox": [
+          443,
+          1907,
+          491,
+          1923
+        ],
+        "conf": 0.9999959119710741
+      },
+      {
+        "text": "TP",
+        "bbox": [
+          525,
+          1907,
+          547,
+          1923
+        ],
+        "conf": 0.9991751172695774
+      },
+      {
+        "text": "Third Party",
+        "bbox": [
+          559,
+          1907,
+          629,
+          1923
+        ],
+        "conf": 0.8584494270094462
+      },
+      {
+        "text": "Correspondent",
+        "bbox": [
+          703,
+          1907,
+          799,
+          1923
+        ],
+        "conf": 0.9999611176483777
+      },
+      {
+        "text": "Calyx Form",
+        "bbox": [
+          79,
+          1929,
+          151,
+          1945
+        ],
+        "conf": 0.9970466068746706
+      },
+      {
+        "text": "feews frm (09/2015)",
+        "bbox": [
+          157,
+          1929,
+          281,
+          1945
+        ],
+        "conf": 0.9595375174231447
+      },
+      {
+        "text": "rate;",
+        "bbox": [
+          194,
+          48,
+          244,
+          80
+        ],
+        "conf": 0.44498457199374863
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          182,
+          406,
+          209,
+          429
+        ],
+        "conf": 0.998389243893081
+      },
+      {
+        "text": "Fee",
+        "bbox": [
+          181,
+          648,
+          209,
+          671
+        ],
+        "conf": 0.9988334987052913
+      },
+      {
+        "text": "paid",
+        "bbox": [
+          215,
+          1683,
+          247,
+          1694
+        ],
+        "conf": 0.5925144553184509
+      }
+    ]
+  }
+]
